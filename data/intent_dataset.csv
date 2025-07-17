@@ -1,0 +1,6 @@
+text,intent
+"open google",open_browser
+"launch browser",open_browser
+"what time is it",tell_time
+"set a reminder",set_reminder
+"hello",greet
