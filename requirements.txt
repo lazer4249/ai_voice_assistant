@@ -1,7 +1,10 @@
 streamlit
-speechrecognition
+SpeechRecognition
 gTTS
 playsound==1.2.2
+pyttsx3
 scikit-learn
 pandas
 numpy
+joblib
+pyaudio
